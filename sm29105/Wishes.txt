@@ -1,0 +1,14 @@
+GET
+xmas/v1/wishes/
+
+<wishes>
+<name>duke</name>
+</wishes>
+
+e.g. /wishes/{id}/books/
+
+
+POST / PUT
+
+POST (== Insert)
+PUT (== Update)
